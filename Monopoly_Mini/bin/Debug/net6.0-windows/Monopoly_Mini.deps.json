@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Monopoly_Mini/1.0.0": {
+        "runtime": {
+          "Monopoly_Mini.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monopoly_Mini/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
